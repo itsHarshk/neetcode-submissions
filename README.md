@@ -1,8 +1,12 @@
-#NeetCode 150 — C++ Solutions  
+# **NeetCode 150 — C++ Solutions**  
 
 A curated collection of my solutions to the "NeetCode 150" problem set, implemented in C++ and organized by problem category.  
 
-##About  
+--- 
+
+
+
+## **About**  
 
 This repository contains my solutions to the NeetCode 150 problems, organized according to the official roadmap.  
 
@@ -13,7 +17,9 @@ This repository contains my solutions to the NeetCode 150 problems, organized ac
 *The repository is updated as problems are completed  
 
 
-##Topics  
+
+
+## **Topics**  
 
 
 📁 Arrays & Hashing  
@@ -35,6 +41,8 @@ This repository contains my solutions to the NeetCode 150 problems, organized ac
 📁 Math & Geometry  
 📁 Bit Manipulation  
 
-##Progress  
+
+
+## **Progress**  
 
 1/150  
