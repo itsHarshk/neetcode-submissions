@@ -45,4 +45,4 @@ This repository contains my solutions to the NeetCode 150 problems, organized ac
 
 ## **Progress**  
 
-2/150  
+3/150  
